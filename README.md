@@ -1,4 +1,4 @@
-# CS510_FullStack_Project
+# Java_Web_Development
 This project is implements basic library management system using Spring Boot, Spring MVC and MySQL along with bootstrap, CSS, javascript, etc.
 After downloading the project, run the project using below steps:
 1. Install Spring Tool Suites
